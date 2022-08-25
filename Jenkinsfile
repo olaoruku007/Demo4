@@ -3,7 +3,7 @@ pipeline {
     stages {
          stage ('Build') {
             steps {
-                echo "Building with jenkins is cool"
+                echo "Building with jenkins is a cool thing"
             }
         }
 
