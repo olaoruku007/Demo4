@@ -3,7 +3,7 @@ pipeline {
     stages {
          stage ('Build') {
             steps {
-                echo "Builder"
+                echo "Building with jenkins"
             }
         }
 
